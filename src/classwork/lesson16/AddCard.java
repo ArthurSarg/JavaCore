@@ -1,4 +1,3 @@
-
 package classwork.lesson16;
 
 import java.util.Scanner;
@@ -40,8 +39,10 @@ public class AddCard {
         String tiv1 = sc.nextLine();
         if ((tiv1.length() != 4)) {
             System.out.println("Սխալ է");
+        
 
         }
+
 
         //Այս կոդի օգնությամբ մենք ավելացնում ենք մեր քարտի երկրորդ 4 թվերը
         System.out.println("Գրեք ձեր քարտի երկրորդ 4 թվերը");
@@ -49,16 +50,16 @@ public class AddCard {
         if ((tiv2.length() != 4)) {
             System.out.println("Սխալ է");
 
-
         }
+
         //Այս կոդի օգնությամբ մենք ավելացնում ենք մեր քարտի երրորդ 4 թվերը
         System.out.println("Գրեք ձեր քարտի երրորդ 4 թվերը");
         String tiv3 = sc.nextLine();
         if ((tiv3.length() != 4)) {
             System.out.println("Սխալ է");
 
-
         }
+
         //Այս կոդի օգնությամբ մենք ավելացնում ենք մեր քարտի չորրորդ 4 թվերը
         System.out.println("Գրեք ձեր քարտի չորրորդ 4 թվերը");
         String tiv4 = sc.nextLine();

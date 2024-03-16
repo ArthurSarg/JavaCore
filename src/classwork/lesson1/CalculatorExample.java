@@ -1,6 +1,6 @@
 package classwork.lesson1;
 
-public class Example3 {
+public class CalculatorExample {
     public static void main(String[] args) {
         int num = 290058712;
         int num2 = 236000;
