@@ -41,8 +41,8 @@ public class AddCard {
             System.out.println("Սխալ է");
             System.out.println("Փորցեք նորից");
             Grancum();
-        }
 
+        }
     }
 }
 
